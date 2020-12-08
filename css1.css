@@ -1,0 +1,39 @@
+﻿body {
+    background-image: url("images/scenarios/img2.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-color:black;
+}
+
+#formPlayer1, #formPlayer2, #formPlayer3, #formPlayer4 {
+    float: left;
+    width: 25%;
+}
+
+
+#mainh1 {
+    color: white;
+}
+
+
+.label {
+    color: #cbb091;
+    width: 100px;
+}
+
+.input{width:150px;}
+
+
+#imgRace1, #imgRace2, #imgRace3, #imgRace4
+{
+    float:left;
+    padding-right:0.5em;
+    width:40%;
+    
+         
+}
+
+
+.racePoints {color: yellow;}
+
+.basicPoints {color:white}
